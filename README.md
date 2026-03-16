@@ -1,8 +1,8 @@
-##Rock–Paper–Scissors
+## Rock–Paper–Scissors
 A simple, interactive Rock–Paper–Scissors game built with HTML, CSS, and JavaScript.
 The project focuses on clean UI, smooth animations, and beginner‑friendly logic.
 
-##Features
+## Features
 -  Play against the computer
 -  Animated shaking effect before revealing results
 -  Randomized CPU choices
@@ -10,7 +10,7 @@ The project focuses on clean UI, smooth animations, and beginner‑friendly logi
 -  Responsive layout
 -  Clean and modern UI using Flexbox
 
-##Project Srtructure
+## Project Srtructure
 - index.html – Game layout and UI elements
 - style.css – Styling, layout, and animations
 - script.js – Game logic, CPU randomization, and shake animation
